@@ -25,5 +25,6 @@ $ npm install
 Run the application with the following command
 
 ```bash
-$ php artisan serve
+$ npm run dev 
 ```
+## node v 20.13.1
