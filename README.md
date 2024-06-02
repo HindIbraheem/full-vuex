@@ -13,7 +13,7 @@ Change your working directory into the project directory
 $ cd projectName
 ```
 
-Then install dependencies using [Composer](https://getcomposer.org/doc/00-intro.md)
+Then install 
 
 ```bash
 $ npm install
