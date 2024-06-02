@@ -16,14 +16,9 @@ $ cd projectName
 Then install dependencies using [Composer](https://getcomposer.org/doc/00-intro.md)
 
 ```bash
-$ composer install
+$ npm install
 ```
 
-Copy `.env.example` to `.env` and Create the database
-
-```bash
-$ cp .env.example .env
-```
 
 ## Run
 
